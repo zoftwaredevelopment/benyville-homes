@@ -1,11 +1,13 @@
 {
-  "name": "my-project",
+  "name": "benyville-homes",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --hostname 127.0.0.1",
+    "dev:mobile": "next dev --hostname 0.0.0.0",
     "build": "next build",
     "start": "next start",
+    "preview": "next build && next start -H 127.0.0.1",
     "lint": "eslint ."
   },
   "dependencies": {
