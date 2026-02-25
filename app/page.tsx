@@ -139,7 +139,6 @@ export default function Home() {
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-3 text-center border border-white/20">
               <Phone className="text-white w-5 h-5 mx-auto mb-1" />
               <h3 className="font-bold text-white text-xs mb-0.5">Phone</h3>
-              <a href="tel:+2349137667618" className="text-white/95 text-xs hover:underline block truncate">+2349137667618</a>
               <a href="tel:+2348100266115" className="text-white/80 text-xs hover:underline block truncate">+2348100266115</a>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-3 text-center border border-white/20">
