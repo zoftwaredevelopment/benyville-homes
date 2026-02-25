@@ -70,7 +70,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/60" aria-hidden />
         <div className="relative z-10 max-w-2xl mx-auto px-4 sm:px-6 text-center space-y-3">
           <p className="text-sm sm:text-base font-medium text-white/95 leading-relaxed drop-shadow-md">
-            At BenyVille, we primarily strive to reduce the housing deficit in Nigeria by building homes at high standards and selling them at fair price points.
+            At Benyville, we primarily strive to reduce the housing deficit in Nigeria by constructing homes with modern designs and resilient structures, and selling them at fair price points.
           </p>
           <p className="text-sm sm:text-base font-medium text-white/95 leading-relaxed drop-shadow-md">
             We are committed to transforming your dreams into reality with our exceptional service and expertise. With years of experience under our belt, we pride ourselves on our integrity and professionalism.
