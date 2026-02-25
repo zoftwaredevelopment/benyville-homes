@@ -6,7 +6,7 @@ import './globals.css'
 const geist = Geist({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'Leading Real Estate Firm in Abuja | Quality & Affordable Properties',
+  title: 'BenyVille Homes',
   description: 'Discover premium real estate properties in Abuja. Estate development, construction, and property management services.',
   icons: {
     icon: '/favicon.png',

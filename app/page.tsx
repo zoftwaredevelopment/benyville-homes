@@ -12,7 +12,7 @@ export default function Home() {
           <div className="flex items-center justify-between h-12 sm:h-14">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-lg overflow-hidden">
-                <Image src="/benyville-icon.png" alt="BenyVille Homes" width={32} height={32} className="w-full h-full object-cover" />
+                <Image src="/favicon.png" alt="BenyVille Homes" width={32} height={32} className="w-full h-full object-contain" />
               </div>
               <span className="font-bold text-lg text-foreground">BenyVille Homes</span>
             </div>
@@ -167,7 +167,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-lg overflow-hidden">
-                <Image src="/benyville-icon.png" alt="BenyVille Homes" width={32} height={32} className="w-full h-full object-cover" />
+                <Image src="/favicon.png" alt="BenyVille Homes" width={32} height={32} className="w-full h-full object-contain" />
               </div>
               <span className="font-bold">BenyVille Homes</span>
             </div>
