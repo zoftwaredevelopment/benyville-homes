@@ -40,7 +40,7 @@ export default function Home() {
               src="/images/hero-logo.png"
               alt="BenyVille Homes - Real Estate redefined"
               fill
-              className="object-contain object-top sm:object-cover sm:object-top"
+              className="object-contain object-top sm:object-contain sm:object-center"
               priority
               sizes="100vw"
             />
