@@ -31,7 +31,7 @@ export default function Home() {
       <section className="relative h-auto sm:h-screen flex flex-col overflow-hidden bg-background">
         <div
           className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: 'url(/images/hero-backdrop.png)' }}
+          style={{ backgroundImage: 'url(/images/hero-backdrop1.png)' }}
           aria-hidden
         />
         <div className="relative z-10 flex flex-1 flex-col justify-start sm:justify-end min-h-0">
